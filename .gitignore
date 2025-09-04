@@ -1,0 +1,11 @@
+*.txt
+*.md
+*.jsonl
+*.exe 
+*.env
+*.mod
+*.sum
+*.bat
+*.env
+*.ps1
+Dockerfile
