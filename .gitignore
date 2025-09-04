@@ -3,8 +3,6 @@
 *.jsonl
 *.exe 
 *.env
-*.mod
-*.sum
 *.bat
 *.env
 *.ps1
